@@ -12,7 +12,7 @@ function App() {
         </p>
         <p>lorem</p>
         <a
-          className="App-links"
+          className="App-links11"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
