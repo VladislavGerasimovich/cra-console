@@ -10,8 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <p>lorem</p>
         <a
-          className="App-link"
+          className="App-links"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
